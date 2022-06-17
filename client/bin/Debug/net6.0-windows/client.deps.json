@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "client/1.0.0": {
+        "dependencies": {
+          "CSkin": "16.1.14.3"
+        },
+        "runtime": {
+          "client.dll": {}
+        }
+      },
+      "CSkin/16.1.14.3": {
+        "runtime": {
+          "CSkin.dll": {
+            "assemblyVersion": "16.1.14.3",
+            "fileVersion": "16.1.14.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSkin/16.1.14.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

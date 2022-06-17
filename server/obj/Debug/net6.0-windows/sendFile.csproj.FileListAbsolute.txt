@@ -1,0 +1,17 @@
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.Server.resources
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.csproj.GenerateResource.cache
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.AssemblyInfoInputs.cache
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.AssemblyInfo.cs
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\bin\Debug\net6.0-windows\sendFile.exe
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\bin\Debug\net6.0-windows\sendFile.deps.json
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\bin\Debug\net6.0-windows\sendFile.runtimeconfig.json
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\bin\Debug\net6.0-windows\sendFile.dll
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\bin\Debug\net6.0-windows\sendFile.pdb
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.dll
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\refint\sendFile.dll
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.pdb
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\sendFile.genruntimeconfig.cache
+C:\Users\shuho\Documents\Code\WPF_Demo01\sendFile\sendFile\obj\Debug\net6.0-windows\ref\sendFile.dll
